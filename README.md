@@ -1,7 +1,6 @@
 # RE2016_14
 Promena formata fajla- Projekat 14
 
-
 M3U format plejliste ima format:
 #EXTM3U
 #EXTINF:213,Evanescence - Breathe No More
@@ -10,7 +9,7 @@ Breathe No More.mp3
 #EXTINF:283,Evanescence - Bring Me To Life
 E:\Muzika\Evanescence Discography\Evanescence - Anywhere But Home\Evanescence -
 Bring Me To Life.mp3,
-gde je #EXTM3U klju£na reč kojom počinje plejlista. Zatim slede redovi sa numerama koje počinju
+gde je #EXTM3U ključna reč kojom počinje plejlista. Zatim slede redovi sa numerama koje počinju
 ključnom re£i #EXTINF:, a potom sledi podatak o trajanju u sekundama i naziv numere. U
 sledećem redu je data putanja do fajla numere.
 PLS format plejliste ima format:
